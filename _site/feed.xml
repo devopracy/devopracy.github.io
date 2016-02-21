@@ -3,10 +3,10 @@
   <channel>
     <title>devopracy</title>
     <description>infrastructure code for virtual democracies</description>
-    <link>devopracy.github.io/devopracy.github.io//</link>
-    <atom:link href="devopracy.github.io/devopracy.github.io//feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sat, 20 Feb 2016 20:22:21 -0800</pubDate>
-    <lastBuildDate>Sat, 20 Feb 2016 20:22:21 -0800</lastBuildDate>
+    <link>devopracy.github.io//</link>
+    <atom:link href="devopracy.github.io//feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Sat, 20 Feb 2016 21:44:40 -0800</pubDate>
+    <lastBuildDate>Sat, 20 Feb 2016 21:44:40 -0800</lastBuildDate>
     <generator>Jekyll v3.0.2</generator>
     
       <item>
@@ -29,8 +29,8 @@
 
 </description>
         <pubDate>Fri, 08 Jan 2016 07:04:23 -0800</pubDate>
-        <link>devopracy.github.io/devopracy.github.io//2016/welcome-to-jekyll/</link>
-        <guid isPermaLink="true">devopracy.github.io/devopracy.github.io//2016/welcome-to-jekyll/</guid>
+        <link>devopracy.github.io//2016/welcome-to-jekyll/</link>
+        <guid isPermaLink="true">devopracy.github.io//2016/welcome-to-jekyll/</guid>
         
         <category>jekyll</category>
         

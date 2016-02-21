@@ -49,8 +49,6 @@ pre.highlight code,
 .user-image {
   margin-bottom: 1.2em;
   position: relative;
-  width: 100px;
-  height: 100px;
-  border: 3px solid #fff;
-  border-radius:100%;
+  width: auto;
+  height: auto;
 }
