@@ -2,7 +2,7 @@
 title: devopracy
 description: 'infrastructure code for virtual democracies'
 url: 'devopracy.github.io'
-baseurl: '/blog/'
+baseurl: '/'
 # google_analytics: 'UA-XXXXXX-X'
 # disqus_shortname: 'your-disqus-name'
 
