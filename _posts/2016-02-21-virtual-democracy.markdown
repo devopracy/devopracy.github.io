@@ -5,6 +5,6 @@ categories: [online-deliberation, virtual-democracy, civic-technology, digital-g
 tags: [online-deliberation, virtual-democracy, civic-technology, digital-government]
 ---
 
-It's not some super-encrypted voting api, not a politically charged social network, or an endless maze of misfunctioning pdf forms with big brother behind it. Digital government may begin with digital assembly, civic engagement, online deliberation, or a manifesto. But eventually government implies much more: a polically relevant government may need treaties, taxation, record keeping, defense; the list goes on. 
+It's not some super-encrypted voting api, not a politically charged social network, or an endless maze of misfunctioning pdf forms with big brother behind it. Digital government may begin with digital assembly, civic engagement, online deliberation, or a manifesto. But eventually government implies much more: a polically relevant government may need treaties, taxation, record keeping, defense; the arguement can be made services are the reason for government. They provide action for legislation. 
 
 Government quality infrastructure is fabulously expensive to build. Yet the cost is largely in man hours for the infrastructure engineers. There has been no open source alternative. This perpetuates the power of physical governments, and impedes the development of virtual nations.   
