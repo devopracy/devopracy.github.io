@@ -1,6 +1,6 @@
 ---
 title:  "a virtual democracy is not a single app"
-date:   2016-02-21 09:14:23
+date:   2016-02-20 09:14:23
 categories: [online-deliberation, virtual-democracy, civic-technology, digital-government]
 tags: [online-deliberation, virtual-democracy, civic-technology, digital-government]
 ---

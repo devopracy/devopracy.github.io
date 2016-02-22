@@ -5,17 +5,17 @@
     <description>infrastructure code for virtual democracies</description>
     <link>devopracy.github.io//</link>
     <atom:link href="devopracy.github.io//feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sun, 21 Feb 2016 09:43:29 -0800</pubDate>
-    <lastBuildDate>Sun, 21 Feb 2016 09:43:29 -0800</lastBuildDate>
+    <pubDate>Sun, 21 Feb 2016 13:38:08 -0800</pubDate>
+    <lastBuildDate>Sun, 21 Feb 2016 13:38:08 -0800</lastBuildDate>
     <generator>Jekyll v3.0.2</generator>
     
       <item>
         <title>a virtual democracy is not a single app</title>
-        <description>&lt;p&gt;It’s not some super-encrypted voting api, not a politically charged social network, or an endless maze of misfunctioning pdf forms with big brother behind it. Digital government may begin with digital assembly, civic engagement, online deliberation, or a manifesto. But eventually government implies much more: a polically relevant government may need treaties, taxation, record keeping, defense; the list goes on.&lt;/p&gt;
+        <description>&lt;p&gt;It’s not some super-encrypted voting api, not a politically charged social network, or an endless maze of misfunctioning pdf forms with big brother behind it. Digital government may begin with digital assembly, civic engagement, online deliberation, or a manifesto. But eventually government implies much more: a polically relevant government may need treaties, taxation, record keeping, defense; the arguement can be made services are the reason for government. They provide action for legislation.&lt;/p&gt;
 
 &lt;p&gt;Government quality infrastructure is fabulously expensive to build. Yet the cost is largely in man hours for the infrastructure engineers. There has been no open source alternative. This perpetuates the power of physical governments, and impedes the development of virtual nations.&lt;/p&gt;
 </description>
-        <pubDate>Sun, 21 Feb 2016 01:14:23 -0800</pubDate>
+        <pubDate>Sat, 20 Feb 2016 01:14:23 -0800</pubDate>
         <link>devopracy.github.io//2016/virtual-democracy/</link>
         <guid isPermaLink="true">devopracy.github.io//2016/virtual-democracy/</guid>
         
