@@ -11,6 +11,6 @@ Secure, authenticated cloud voting is the most important feature to ship for ele
 
 * The government will refuse the technology, but the citizenry will embrace it. A new party will emerge, the PartE(lectronic). The politicians of the PartE will have a contract to represent a wired constituency. The politician will no longer be a decision-maker, but a counselor, capable of informing and advising the citizens, who vote with a deliberative application on the upcoming legislation. The politician shims the representational democracy until the citizenry has developed systems for direct democracy. 
 
-* The government will refuse the technology, but the government is now moot. With the ability to authentically vote without government interference, the citizens will overthrow the government. 
+* The government will refuse the technology, but citizens have alternatives for political organization. With the ability to authentically vote on a cloud, citizens can run parallel elections to validate government process, and if necessary overthrow the government. 
 
 With a secure and authenticated voting cloud, the citizenry will always advance. 
